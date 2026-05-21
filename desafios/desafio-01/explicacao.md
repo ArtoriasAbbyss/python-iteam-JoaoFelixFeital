@@ -7,7 +7,7 @@
 
 ## O que meu programa faz
 
-_(Descreva em suas palavras o que cada parte do código faz. Não copie o enunciado — explique como você pensou na solução.)_
+o programa cria 3 variaveis (nome, ano de nascimento e ano atual). com essas informacoes ele pede ao usuario o nome e ano q nasceu, e com essa ultima informacao, obtém sua idade através da diferença do ano atual e o ano fornecido pelo usuário
 
 ---
 
@@ -15,7 +15,7 @@ _(Descreva em suas palavras o que cada parte do código faz. Não copie o enunci
 
 > Por que é necessário converter o resultado do `input()` antes de calcular a idade? O que acontece se não converter?
 
-_(Sua resposta aqui — use suas próprias palavras. Pode incluir exemplos de código se ajudar a explicar.)_
+são dados distintos. ao seu usar ```input()``` o dado retornado é uma string, então é necessário transformar o dado fornecido para inteiro para q possa ser manipulado
 
 ---
 
