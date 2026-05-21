@@ -1,6 +1,6 @@
 Lista 01 — Questão 02: Tipos e Conversão
-Aluno: (seu nome)
-Data:  (data)
+Aluno: joao felix feital
+Data:  21/05/2026
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ENUNCIADO:
@@ -17,5 +17,9 @@ Responda por raciocínio ANTES de executar. Depois confirme no REPL.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 SUA RESPOSTA:
 
-(escreva aqui com suas próprias palavras)
-
+1. tipo: int valor: 5
+2. tipo: int valor 2.5
+3. tipo: int valor: 3
+4. tipo: boolean valor: true
+5. tipo: boolean valor: false
+6. tipo: string valor: true
