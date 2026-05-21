@@ -1,7 +1,7 @@
 # Explicação — Desafio 01
 
-**Aluno:** _(seu nome)_  
-**Data:** _(data)_
+**Aluno:** _joao felix feital_  
+**Data:** _21/05/2026_
 
 ---
 
