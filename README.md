@@ -22,10 +22,10 @@ Curso: Capacitação em Desenvolvimento Full Stack | 2026
 
 | Campo | Preenchimento |
 |---|---|
-| **Nome completo** | _(preencha aqui)_ |
+| **Nome completo** | _Joao Felix Feital_ |
 | **Turma** | Vespertino 2026 |
-| **E-mail** | _(preencha aqui)_ |
-| **GitHub** | @_(seu usuário)_ |
+| **E-mail** | _joao.feitalfelix@outlook.com_ |
+| **GitHub** | @_(ArtoriasAbbyss)_ |
 
 ---
 
