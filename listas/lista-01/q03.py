@@ -1,6 +1,6 @@
 # Lista 01 — Questão 03: Ficha de Cadastro
-# Aluno: (seu nome)
-# Data:  (data)
+# Aluno: joao felix feital
+# Data:  25/05/2026
 
 # ── Enunciado ───────────────────────────────────────────────────────────────
 # Solicite: nome completo, CPF (str), ano de nascimento (int), altura (float).
@@ -11,3 +11,9 @@
 # Explique em comentário: por que float para altura e não int?
 
 # ── Sua solução abaixo ──────────────────────────────────────────────────────
+anoNascimento = int(input("Digite o ano em q nasceu: "));
+anoAtual = int(2026);
+try:
+    print(f"Sua idade é {anoAtual - anoNascimento}");
+except:
+    print("O ano não é um número");
