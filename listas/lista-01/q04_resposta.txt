@@ -1,6 +1,6 @@
 Lista 01 — Questão 04: Rastreamento de Loop
-Aluno: (seu nome)
-Data:  (data)
+Aluno: joao felix feital
+Data:  24/05/2026
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ENUNCIADO:
@@ -17,5 +17,6 @@ Qual é o valor final de total? O que o código calcula?
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 SUA RESPOSTA:
 
-(escreva aqui com suas próprias palavras)
-
+1ª iteracao: 1
+2ª iteracao: 4
+3ª iteracao: 9
