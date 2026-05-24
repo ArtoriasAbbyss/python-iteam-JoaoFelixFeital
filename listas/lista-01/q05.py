@@ -1,6 +1,6 @@
 # Lista 01 — Questão 05: Encontre o Bug
-# Aluno: (seu nome)
-# Data:  (data)
+# Aluno: joao felix feital
+# Data:  22/05/2026
 
 # ── Enunciado ───────────────────────────────────────────────────────────────
 # O código abaixo tem um bug lógico — executa sem erros, mas produz resultado errado.
@@ -15,3 +15,4 @@
 #   print(maior_nota([7.5, 9.0, 6.0, 8.5]))
 
 # ── Sua solução abaixo ──────────────────────────────────────────────────────
+# o erro se encontra na linha 13. ao inves de atribuir, ele compara os dois valores, prejudicando o loop
