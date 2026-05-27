@@ -11,5 +11,13 @@ Em que situação é correto usar is em código profissional?
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 SUA RESPOSTA:
 
-(escreva aqui com suas próprias palavras)
+dentro da literatura do python o operador "is" está contido no tipo operador associado à identidade (identity) do dado analisado, no caso, se se trata de um objeto. enquanto que, o operador "==" avalia o dado em relação a sua primitividade (string, inteiro, real [float])
 
+x = ["apple", "banana"]
+y = ["apple", "banana"]
+z = x
+
+print(x is z) //true
+print(x is y) //false
+print(x == y) //true
+obs.: exemplo retirado de https://www.w3schools.com/python/trypython.asp?filename=demo_oper_identity_example
